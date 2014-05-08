@@ -1,4 +1,4 @@
-Phaser-State-Template
+Phaser State Template
 =====================
 
 State template for phaser game engine
